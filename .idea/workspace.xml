@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45cbfdb9-3d80-4608-8762-e91e6ec0aad1" name="Default" comment="" />
+    <list default="true" id="45cbfdb9-3d80-4608-8762-e91e6ec0aad1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/s-qlite-jdbc-3.7.2-javadoc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/s-qlite-jdbc-3.7.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dangoxj/utils/Config.java" afterPath="$PROJECT_DIR$/src/com/dangoxj/utils/Config.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Config.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,11 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/JTextAreaAppender.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="11" column="25" selection-start="266" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="557" max-vertical-offset="990">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#672#673#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,28 +82,25 @@
       <file leaf-file-name="Frame.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/Frame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="35" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3210">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3069#3565#0" expanded="true" />
-                <element signature="e#3553#3554#0" expanded="true" />
-                <element signature="e#4144#4641#0" expanded="true" />
-                <element signature="e#4629#4630#0" expanded="true" />
-                <element signature="e#5114#5312#0" expanded="true" />
-                <element signature="e#5300#5301#0" expanded="true" />
-                <element signature="e#5587#6983#0" expanded="true" />
-                <element signature="e#5731#6933#0" expanded="true" />
-                <element signature="e#6905#6906#0" expanded="true" />
-                <element signature="e#6963#6964#0" expanded="true" />
-              </folding>
+            <state line="14" column="35" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="3210">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Result.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Result.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Result.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.13856813" vertical-offset="0" max-vertical-offset="433">
+            <state line="4" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Connection.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/sql/Connection.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="9" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="1665">
               <folding />
             </state>
           </provider>
@@ -116,24 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XML.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/XML.java">
+      <file leaf-file-name="Config.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="51" selection-start="285" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="615">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/CheckList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <folding>
-                <marker date="1385878604000" expanded="true" signature="142:150" placeholder="{...}" />
-              </folding>
+            <state line="88" column="16" selection-start="3791" selection-end="3791" vertical-scroll-proportion="0.53571427" vertical-offset="930" max-vertical-offset="1845">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -141,7 +127,7 @@
       <file leaf-file-name="NumberFormatException.class" pinned="false" current="false" current-in-tab="false">
         <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/NumberFormatException.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+            <state line="14" column="0" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -159,7 +145,7 @@
       <file leaf-file-name="sysLog.log" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/log/sysLog.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
               <folding />
             </state>
           </provider>
@@ -181,12 +167,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/test.xml" />
-        <option value="$PROJECT_DIR$/src/com/dangoxj/utils/Config.java" />
         <option value="$PROJECT_DIR$/src/com/dangoxj/utils/EnvCheck.java" />
         <option value="$PROJECT_DIR$/src/com/dangoxj/utils/EnvCheck.form" />
         <option value="$PROJECT_DIR$/src/com/dangoxj/utils/CheckList.java" />
@@ -194,12 +182,14 @@
         <option value="$PROJECT_DIR$/src/com/dangoxj/utils/XML.java" />
         <option value="$PROJECT_DIR$/log4j.properties" />
         <option value="$PROJECT_DIR$/src/com/dangoxj/utils/Frame.java" />
+        <option value="$PROJECT_DIR$/sample.db" />
+        <option value="$PROJECT_DIR$/src/com/dangoxj/utils/Config.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="723" />
-    <option name="y" value="81" />
+    <option name="x" value="40" />
+    <option name="y" value="30" />
     <option name="width" value="1400" />
     <option name="height" value="790" />
   </component>
@@ -219,7 +209,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -245,14 +235,42 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -286,7 +304,7 @@
       <recent name="$PROJECT_DIR$/libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Log4J">
+  <component name="RunManager" selected="Application.Config">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -321,6 +339,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -346,19 +377,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -482,7 +500,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="723" y="81" width="1400" height="790" extended-state="0" />
+    <frame x="40" y="30" width="1400" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -490,6 +508,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -502,11 +521,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20071429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32871014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -528,13 +546,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32871014" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32871014" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -558,38 +576,17 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="18" selection-start="202" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="21" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1652#1660#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/XML.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/CheckList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
-          <folding>
-            <marker date="1385878604000" expanded="true" signature="142:150" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -602,9 +599,7 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/commons-configuration-1.10-sources.jar!/org/apache/commons/configuration/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="25" selection-start="3102" selection-end="3106" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="9060">
-          <folding />
-        </state>
+        <state line="60" column="25" selection-start="3102" selection-end="3106" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="9060" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/commons-configuration-1.10-sources.jar!/org/apache/commons/configuration/XMLConfiguration.java">
@@ -631,28 +626,21 @@
     <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="21" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1652#1660#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/XML.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/CheckList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
-          <folding>
-            <marker date="1385878604000" expanded="true" signature="142:150" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -665,9 +653,7 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/commons-configuration-1.10-sources.jar!/org/apache/commons/configuration/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="25" selection-start="3102" selection-end="3106" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="9060">
-          <folding />
-        </state>
+        <state line="60" column="25" selection-start="3102" selection-end="3106" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="9060" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/commons-configuration-1.10-sources.jar!/org/apache/commons/configuration/XMLConfiguration.java">
@@ -785,9 +771,7 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/commons-configuration-1.10-sources.jar!/org/apache/commons/configuration/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="25" selection-start="3102" selection-end="3106" vertical-scroll-proportion="0.0" vertical-offset="8252" max-vertical-offset="8775">
-          <folding />
-        </state>
+        <state line="60" column="25" selection-start="3102" selection-end="3106" vertical-scroll-proportion="0.0" vertical-offset="8252" max-vertical-offset="8775" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
@@ -811,9 +795,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/NumberFormatException.class">
+    <entry file="file://$PROJECT_DIR$/Result.xml.bak">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/JTextAreaAppender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="25" selection-start="266" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="557" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/XML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="51" selection-start="285" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="1" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.0" vertical-offset="602" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
@@ -821,6 +833,27 @@
     <entry file="file://$PROJECT_DIR$/log/sysLog.log.1">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/sql/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="1665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="35" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/NumberFormatException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
           <folding />
         </state>
       </provider>
@@ -834,10 +867,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/CheckList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding>
-            <marker date="1385878604000" expanded="true" signature="142:150" placeholder="{...}" />
-          </folding>
+        <state line="5" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.17321016" vertical-offset="0" max-vertical-offset="433">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="72915">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -848,72 +886,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="1" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.0" vertical-offset="602" max-vertical-offset="1035">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/XML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="51" selection-start="285" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="615">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="21" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="257" max-vertical-offset="690">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1652#1660#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/JTextAreaAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="25" selection-start="266" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="557" max-vertical-offset="990">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Result.xml.bak">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dangoxj/utils/Frame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="35" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3210">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3069#3565#0" expanded="true" />
-            <element signature="e#3553#3554#0" expanded="true" />
-            <element signature="e#4144#4641#0" expanded="true" />
-            <element signature="e#4629#4630#0" expanded="true" />
-            <element signature="e#5114#5312#0" expanded="true" />
-            <element signature="e#5300#5301#0" expanded="true" />
-            <element signature="e#5587#6983#0" expanded="true" />
-            <element signature="e#5731#6933#0" expanded="true" />
-            <element signature="e#6905#6906#0" expanded="true" />
-            <element signature="e#6963#6964#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Result.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.13856813" vertical-offset="0" max-vertical-offset="433">
+        <state line="88" column="16" selection-start="3791" selection-end="3791" vertical-scroll-proportion="0.53571427" vertical-offset="930" max-vertical-offset="1845">
           <folding />
         </state>
       </provider>
