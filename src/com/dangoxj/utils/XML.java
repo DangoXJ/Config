@@ -27,9 +27,9 @@ public class XML {
         // This request is disabled, because DEBUG < INFO.
         logger.debug("Exiting gas station search");
 
-        Frame frame = new Frame();
-        frame.init();
-        frame.showMyself();
+//        Frame frame = new Frame();
+//        frame.init();
+//        frame.showMyself();
 
     }
 }

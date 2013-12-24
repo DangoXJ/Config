@@ -30,7 +30,9 @@ public class Config {
         System.out.println(config.getString("Person[N = 'ZSZ0']/P"));
         System.out.println(config.getString("databases/database[name = 'dev']/url"));
         System.out.println(config.getString("databases/database[name = 'production']/url"));
-
+        config.clear();
+        config.addProperty("KeyWord","00 12 34 56 78");
+        config.setRootElementName("Config");
         config.save();
 
         try {
