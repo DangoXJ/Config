@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BootLoader">
+    <output-path>$USER_HOME$/Test</output-path>
+    <root id="archive" name="BootLoader.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Config" />
+    </root>
+  </artifact>
+</component>

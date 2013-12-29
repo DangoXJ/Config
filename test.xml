@@ -1,33 +1,14 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<config>
-<Lmt name="USN9810" path="TestPath">
-        <test> test</test>
-    </Lmt>
-<lmt>
-        <test> Test</test>
-    </lmt>
-<Person Name="ZSZ0">
-    <N>ZSZ0</N>
-    <P>A</P>
-</Person>
-<Person Name="ZSZ1">
-    <N>ZSZ1</N>
-    <P>B</P>
-</Person>
-<databases>
-        <database>
-            <name>dev</name>
-            <url>127.0.0.1</url>
-            <port>1521</port>
-            <login>admin</login>
-            <password>pass</password>
-        </database>
-        <database>
-            <name>production</name>
-            <url>192.23.44.100</url>
-            <port>1521</port>
-            <login>admin</login>
-            <password>not-so-easy-pass</password>
-        </database>
-    </databases>
-</config>
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<NotepadPlus>
+<Environment additionalWordChar="" ignoreCase="no" paramSeparator=" " startFunc="{" stopFunc="}" terminal=""/>
+<AutoComplete language="spider">
+<KeyWord name="MML_USN_INTER"/>
+<KeyWord name="MML_USN_LOCAL"/>
+<KeyWord func="yes" name="MML_USN_Z_ADD_CHGIMSICFG">
+<Overload reVal="int">
+<Param name="IMSIPRE"/>
+<Param name="ADDD"/>
+</Overload>
+</KeyWord>
+</AutoComplete>
+</NotepadPlus>
