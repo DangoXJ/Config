@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
-<NotepadPlus>
-<Environment additionalWordChar="" ignoreCase="no" paramSeparator=" " startFunc="{" stopFunc="}" terminal=""/>
-<AutoComplete language="spider">
-<KeyWord name="MML_USN_INTER"/>
-<KeyWord name="MML_USN_LOCAL"/>
-<KeyWord func="yes" name="MML_USN_Z_ADD_CHGIMSICFG">
-<Overload reVal="int">
-<Param name="IMSIPRE"/>
-<Param name="ADDD"/>
-</Overload>
-</KeyWord>
-</AutoComplete>
-</NotepadPlus>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Config>
+    <KeyWord>00 12 34 56 78<P>Test</P><P>Test2</P></KeyWord>
+    <KeyWord>12 23 34 45 56</KeyWord>
+    <KeyWord>12 23 34 45 56</KeyWord>
+    <KeyWord>11 23 34 45 56</KeyWord>
+    <KeyWord>14 23 34 45 56</KeyWord>
+    <KeyWord>15 23 34 45 56</KeyWord>
+    <KeyWord>16 23 34 45 56</KeyWord>
+    <KeyWord>17 23 34 45 56</KeyWord>
+</Config>

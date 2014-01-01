@@ -18,28 +18,42 @@ import java.util.Random;
  */
 public class Config {
     public static void main(String[] args) throws ConfigurationException, IOException {
-        XMLConfiguration config =new XMLConfiguration("test.xml");
-        System.out.println(config.getString("Lmt[@name]"));
-        System.out.println(config.getString("lmt.test"));
-        System.out.println(config.getString("lmt.path","default"));
-        System.out.println(config.getString("Person(1)[@Name]"));
+        XMLConfiguration config = new XMLConfiguration("test.xml");
+//        System.out.println(config.getString("Lmt[@name]"));
+//        System.out.println(config.getString("lmt.test"));
+//        System.out.println(config.getString("lmt.path","default"));
+//        System.out.println(config.getString("Person(1)[@Name]"));
 
         // 设置为XPath 解析
         config.setExpressionEngine(new XPathExpressionEngine());
-        System.out.println(config.getString("Person[@Name = 'ZSZ0']/P"));
-        System.out.println(config.getString("Person[N = 'ZSZ0']/P"));
-        System.out.println(config.getString("databases/database[name = 'dev']/url"));
-        System.out.println(config.getString("databases/database[name = 'production']/url"));
-        config.clear();
-        config.addProperty("KeyWord","00 12 34 56 78");
-        config.setRootElementName("Config");
-        config.save();
+//        System.out.println(config.getString("Person[@Name = 'ZSZ0']/P"));
+//        System.out.println(config.getString("Person[N = 'ZSZ0']/P"));
+//        System.out.println(config.getString("databases/database[name = 'dev']/url"));
+//        System.out.println(config.getString("databases/database[name = 'production']/url"));
 
-        try {
-            testSqlLite();
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        }
+        System.out.println(config.getProperty("//KeyWord/P[contains(.,\"2\")]"));
+        System.out.println(config.getProperty("//KeyWord/P[contains(.,\"Test2\")]"));
+
+//        config.clear();
+//        config.addProperty("KeyWord", "00 12 34 56 78");
+//        config.addProperty("KeyWord","12 23 34 45 56");
+//        config.addProperty("KeyWord","12 23 34 45 56");
+//config.addProperty("KeyWord(0).P","Test1");
+//      //  config.addProperty("KeyWord[1]/p[2]","Test2");
+//        config.addProperty("KeyWord","11 23 34 45 56");
+//        config.addProperty("KeyWord","14 23 34 45 56");
+//        config.addProperty("KeyWord","15 23 34 45 56");
+//        config.addProperty("KeyWord","16 23 34 45 56");
+//        config.addProperty("KeyWord","17 23 34 45 56");
+//
+//        config.setRootElementName("Config");
+//        config.save();
+
+//        try {
+//            testSqlLite();
+//        } catch (ClassNotFoundException e) {
+//            e.printStackTrace();
+//        }
     }
 
     public static XMLConfiguration getXMLConfig(String filename) throws IOException, ConfigurationException {
